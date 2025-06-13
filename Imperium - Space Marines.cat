@@ -31237,7 +31237,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
             <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Blast</characteristic>
           </characteristics>
         </profile>
-        <profile name="➤ Heavy Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a906-4a15-497b-1126">
+        <profile name="➤ Heavy Plasma Cannon - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a906-4a15-497b-1126">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
